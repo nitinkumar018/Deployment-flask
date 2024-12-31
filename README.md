@@ -1,4 +1,4 @@
-# Deploy ML model using flask
+# Project: Deploy ML model using flask
 ## model.pkl: it is pickle file which is having our entire linear regression algorithm
 ## model_deploy.py: it has code for creating web app using flask library (back end web development)
 ## index.html: it has code for buttons for inserting input and see the output (front end web application)
